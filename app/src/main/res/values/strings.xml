@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Primjer propagacije - Fragmenti</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="l1">Wireless</string>
+    <string name="cb1">Dodatni ketchup</string>
+    <string name="cb2">Dodatne masline</string>
+    <string name="lIznos">Iznos</string>
+    <string name="dod">DODACI</string>
+    <string name="textview4">Dodatni ketchup</string>
+    <string name="textview6">Dodatne masline</string>
+</resources>
